@@ -19,8 +19,7 @@ module.exports = () => {
     },
     plugins: [
       new HtmlWebpackPlugin({
-        template: './index.html',
-        title: 'Contact Cards'
+        template: './index.html'
       }),
 
       new InjectManifest({
