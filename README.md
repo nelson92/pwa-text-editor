@@ -37,7 +37,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 Screenshot of application
-![alt text](public/assets/images/screenshot_1.png)
+![alt text](client/src/images/pwa_sw)
 
 
 ## Table of Contents   
